@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/ssaikrishnan2" target="blank"><img src="https://img.shields.io/twitter/follow/ssaikrishnan2?logo=twitter&style=for-the-badge" alt="ssaikrishnan2" /></a> </p>
 
-- 🔭 I’m currently working on [Modern Portfolio](https://github.com/SaikrishnanShankar/modern_portfolio)
+- 🔭 I’m currently working at **Avalara**
 
-- 🌱 I’m currently learning **Cricket Analytics and Video Analytics**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Cricket Analytics Projects**
+- 👯 I’m looking to collaborate on **Full stack development**
 
-- 💬 Ask me about **Python, Machine Learning**
+- 💬 Ask me about **Python, Machine Learning, Software development using angular and C#**
 
 - 📫 How to reach me **saikrish0108@gmail.com**
 
