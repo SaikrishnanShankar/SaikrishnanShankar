@@ -1,52 +1,39 @@
-![Header](https://github.com/SaikrishnanShankar/assets/header.png)
+<div style="text-align: center;">
 
-# 👋 Hi, I'm Saikrishnan Sankar
+  <h1>Saikrishnan Sankar</h1>
 
-### 🚀 About Me
+  <h3>   About Me</h3>
 
-- 🎓 Pursuing Masters of Science in Computer Science @ [Georgia Institute of Technology](https://www.gatech.edu/)
+  <p> Pursuing Masters of Science in Computer Science @ Georgia Institute of Technology</p>
+  <p>  Looking to collaborate on Sports Data Visualization Projects</p>
+  <p>  Former Software Development Engineer II @ Avalara</p>
+  <p>  Ex Data Analyst Intern @ Viscus Infotech Ltd (Vinfotech)</p>
+  <p> Ask me about Full Stack Development, C#, React, Playwright, BDD, Tableau, PowerBI, Machine Learning</p>
 
-🔭 Looking to collaborate on Sports Data Visualization Projects
+  <h3>   How to Reach Me:</h3>
 
-- 💼 Former Software Development Engineer II @ [Avalara](https://www.avalara.com/)
+  <a href="https://www.linkedin.com/in/saikrishnan-s-87b2161b4/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/SaikrishnanShankar"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></a>
+  <a href="mailto:saikrish0108@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 
-- 📊 Ex Data Analyst Intern @ [Viscus Infotech Ltd (Vinfotech)](https://www.vinfotech.com/)
+  <h3>  ️ Skills and Tools</h3>
 
-💬 Ask me about Full Stack Development, C#, React, Playwright, BDD, Tableau, PowerBI, Machine Learning
+  <h4>**Languages:**</h4>
 
-### 🛠️ Skills and Tools
+  <a href="#"><img title="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white"></a>
+  <a href="#"><img title="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"></a>
+  <a href="#"><img title="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"></a>
+  <a href="#"><img title="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%logoColor=white"></a>
+  <a href="#"><img title="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"></a>
+  <a href="#"><img title="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></a>
+  <a href="#"><img title="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white"></a>
+  <a href="#"><img title="CSS" src="https://://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"></a>
 
-**Languages & Frameworks:**
+  <h4>**Frameworks:**</h4>
 
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
-
-**Frameworks & Libraries:**
-
-![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?logo=dotnet&logoColor=white&style=flat)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
-
-**Tools:**
-
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat)
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=power-bi&logoColor=black&style=flat)
-
-
-📫 How to Reach Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/saikrishnan-s-87b2161b4/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/SaikrishnanShankar)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:saikrish0108@gmail.com)
+  <a href="#"><img title=".NET Core" src="https://img.shields.io/badge/-.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white"></a>
+  <a href="#"><img title="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white"></a>
+  <a href="#"><img title="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"></a>
+  <a href="#"><img title="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"></a>
+  <a href="#"><img title="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"></a>
+  <a href="#"><img title="PyTorch" src="https://img.shields.
