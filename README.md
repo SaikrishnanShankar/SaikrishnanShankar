@@ -1,12 +1,18 @@
-# Creating the README.md content
-readme_content = """
 ![Header](https://github.com/SaikrishnanShankar/assets/header.png)
 
 # 👋 Hi, I'm Saikrishnan Sankar
 
 ### 🚀 About Me
 
-I am a passionate and driven software engineer with a strong background in computer science and hands-on experience in various technologies. Currently pursuing my Masters of Science in Computer Science at Georgia Institute of Technology, I have a keen interest in data science, machine learning, and software development. My professional journey has equipped me with the skills to solve complex problems, design scalable systems, and drive innovation.
+- 🎓 Pursuing Masters of Science in Computer Science @ [Georgia Institute of Technology](https://www.gatech.edu/)
+
+🔭 Looking to collaborate on Sports Data Visualization Projects
+
+- 💼 Former Software Development Engineer II @ [Avalara](https://www.avalara.com/)
+
+- 📊 Ex Data Analyst Intern @ [Viscus Infotech Ltd (Vinfotech)](https://www.vinfotech.com/)
+
+💬 Ask me about Full Stack Development, C#, React, Playwright, BDD, Tableau, PowerBI, Machine Learning
 
 ### 🛠️ Skills and Tools
 
@@ -39,9 +45,8 @@ I am a passionate and driven software engineer with a strong background in compu
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat)
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=power-bi&logoColor=black&style=flat)
 
-### 📫 How to Reach Me
 
+📫 How to Reach Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/saikrishnan-s-87b2161b4/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/SaikrishnanShankar)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:saikrish0108@gmail.com)
-"""
