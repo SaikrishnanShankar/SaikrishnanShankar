@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Saikrishnan Sankar</h1>
+<h1 align="center">#Hi 👋, I'm Saikrishnan Sankar</h1>
 <h3 align="center"> A tech innovator at the intersection of software development, machine learning, and sports analytics</h3>
-### 🚀 About Me
+###🚀 About Me
 
 🎓 Pursuing Masters of Science in Computer Science @ [Georgia Institute of Technology](https://www.gatech.edu/)
 
