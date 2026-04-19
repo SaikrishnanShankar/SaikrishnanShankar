@@ -72,7 +72,7 @@
 
 - 🧠 **[Production RAG Server](https://github.com/SaikrishnanShankar/llm-rag-server)** — LangGraph agent pipeline with pgvector, vLLM, RAGAS evaluation, and a full CI/CD + observability stack
 - ⚙️ **[Distributed Key-Value Store](https://github.com/SaikrishnanShankar/distributed-kv-store)** — Built in Go with consistent hashing, gossip-based failure detection, WAL durability, deployed on Kubernetes
-- 🗓️ **[Distributed Job Scheduler]([https://github.com/SaikrishnanShankar/REPLACE_ME](https://github.com/SaikrishnanShankar/job-scheduler))** — Go + React scheduler with Redis priority queue, WebSocket dashboard, HPA auto-scaling on Kubernetes
+- 🗓️ **[Distributed Job Scheduler](https://github.com/SaikrishnanShankar/job-scheduler)** — Go + React scheduler with Redis priority queue, WebSocket dashboard, HPA auto-scaling on Kubernetes
 
 ---
 
